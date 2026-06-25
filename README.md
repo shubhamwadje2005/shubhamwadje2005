@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
+### 🚀 Full Stack Developer | AI-Powered Developer | MERN Stack Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Powered+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -12,11 +12,27 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on Full Stack Projects
-* 🌱 Learning Advanced Backend Architecture & System Design
-* 💡 Passionate about Web Development and Problem Solving
-* 🚀 Building scalable and production-ready applications
-* 🎯 Goal: Become an Expert Full Stack Engineer
+* 🚀 Passionate Full Stack Developer from India
+* 💻 Building modern, scalable, and production-ready applications
+* 🌱 Exploring AI, System Design, and Cloud Technologies
+* 🔥 Love solving real-world problems through code
+* 🎯 Goal: Become an Expert Software Engineer & AI Developer
+
+---
+
+## 🤖 AI Tools I Use
+
+<p align="left">
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCode-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud_AI-2196F3?style=for-the-badge" />
+</p>
 
 ---
 
@@ -24,34 +40,45 @@
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind" />
+</p>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
 
 ### Tools & Services
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Skills
+
+```txt
+Frontend      ████████████████████ 95%
+Backend       ██████████████████   90%
+Database      █████████████████    85%
+System Design ██████████████       75%
+AI Tools      ████████████████████ 95%
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamwadje2005\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamwadje2005\&show_icons=true\&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamwadje2005\&theme=tokyonight)
 
@@ -61,21 +88,31 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shubhamwadje2005\&theme=tokyonight\&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=shubhamwadje2005\&theme=tokyonight\&column=4)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamwadje2005\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamwadje2005\&theme=tokyo-night)
 
 ---
 
-## 🤝 Connect With Me
+## 💡 Currently Working On
+
+* Full Stack MERN Applications
+* AI Integrated Projects
+* Scalable Backend Systems
+* Authentication & Security
+* Cloud-Based Solutions
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/shubhamwadje2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -83,6 +120,8 @@
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### 🚀 Code • Learn • Build • Innovate
+
+⭐ If you like my work, consider following me on GitHub!
 
 </div>
