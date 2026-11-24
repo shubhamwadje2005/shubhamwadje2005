@@ -24,20 +24,14 @@
 ## 🤖 AI Tools I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/OpenCode-00C853?style=for-the-badge" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge" /> &nbsp;
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge" /> &nbsp;
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" /> &nbsp;
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge" /> &nbsp;
+  <img src="https://img.shields.io/badge/OpenCode-00C853?style=for-the-badge" /> &nbsp;
+  <img src="https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge" /> &nbsp;
   <img src="https://img.shields.io/badge/Cloud_AI-2196F3?style=for-the-badge" />
 </p>
 
