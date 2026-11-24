@@ -100,7 +100,7 @@ AI Tools      ████████████████████ 95%
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamwadje2005\&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamwadje2005&theme=tokyo-night&hide_border=true" width="100%" />
 
 ---
 
